@@ -1,2 +1,2 @@
 # Henry-PI-Dogs-Back
-Repositorio del proyecto individual del Bootcamp de Henry - Tematica Raza de Perros
+Repositorio - Back-end del proyecto individual del Bootcamp de Henry - Tematica Raza de Perros
